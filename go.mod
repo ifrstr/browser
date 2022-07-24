@@ -1,4 +1,4 @@
-module github.com/ifrstr/browser
+module gopkg.ilharper.com/x/browser
 
 go 1.14
 
