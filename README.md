@@ -1,5 +1,8 @@
 # browser
 
+[![Go Reference](https://pkg.go.dev/badge/gopkg.ilharper.com/x/browser.svg)](https://pkg.go.dev/gopkg.ilharper.com/x/browser)
+[![Go Report Card](https://goreportcard.com/badge/github.com/ifrstr/browser)](https://goreportcard.com/report/github.com/ifrstr/browser)
+
 Helpers to open URLs, readers, or files in the system default web browser.
 
 ## Install
